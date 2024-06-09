@@ -68,7 +68,7 @@ collections:
     description: "让我们出发" # The post list page content
     feature_text: |
       扬帆--启航
-    feature_image: "https://huertong.github.io/alembic/assets/img/page_02_top_pic.png"
+    feature_image: "https://huertong.github.io/sunmoon/assets/img/page_02_top_pic.png"
 
 # 6. Jekyll collections settings
 defaults:
@@ -132,7 +132,7 @@ navigation_header:
 - title: 搜索
   url: /search/
 - title: 0-0
-  url: https://huertong.github.io/alembic
+  url: https://huertong.github.io/sunmoon
 
 
 

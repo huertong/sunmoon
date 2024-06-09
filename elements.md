@@ -2,7 +2,7 @@
 title: 素材
 feature_text: |
   三瓜俩枣
-feature_image: "https://huertong.github.io/alembic/assets/img/page_01_top_pic.png"
+feature_image: "https://huertong.github.io/sunmoon/assets/img/page_01_top_pic.png"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
@@ -125,11 +125,11 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 ### 图片
 
-{% include figure.html image="https://huertong.github.io/alembic/assets/img/meterial/meterial_00.png" caption="前天" width="300" height="800" %}
+{% include figure.html image="https://huertong.github.io/sunmoon/assets/img/meterial/meterial_00.png" caption="前天" width="300" height="800" %}
 
-{% include figure.html image="https://huertong.github.io/alembic/assets/img/meterial/meterial_01.png" caption="去年"  width="300" height="800" %}
+{% include figure.html image="https://huertong.github.io/sunmoon/assets/img/meterial/meterial_01.png" caption="去年"  width="300" height="800" %}
  
-{% include figure.html image="https://huertong.github.io/alembic/assets/img/meterial/meterial_02.png" caption="去年"  width="300" height="800" %}
+{% include figure.html image="https://huertong.github.io/sunmoon/assets/img/meterial/meterial_02.png" caption="去年"  width="300" height="800" %}
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="未  知" position="left" width="300" height="800" %}
 

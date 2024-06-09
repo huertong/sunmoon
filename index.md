@@ -3,7 +3,7 @@ title: <!--关于-->
 feature_text: |
   ## 苍茫
   日月山河
-feature_image: "https://huertong.github.io/alembic/assets/img/home_page_top_pic.png"
+feature_image: "https://huertong.github.io/sunmoon/assets/img/home_page_top_pic.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it"
 ---
 
