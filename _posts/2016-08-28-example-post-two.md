@@ -3,6 +3,7 @@ title: 第二篇文
 categories:
 - History
 - 常识
+- 所有博文
 feature_text: |
   测试
 ---

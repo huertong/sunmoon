@@ -131,7 +131,7 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
  
 {% include figure.html image="https://huertong.github.io/sunmoon/assets/img/meterial/meterial_02.png" caption="去年"  width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="未  知" position="left" width="300" height="800" %}
+{% include figure.html image="https://huertong.github.io/sunmoon/assets/img/meterial/meterial_03.png" caption="未  知" position="left" width="300" height="800" %}
 
 <br>
 <br>

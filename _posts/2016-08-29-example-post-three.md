@@ -2,6 +2,7 @@
 title: 第三篇
 categories:
 - 常识
+- 所有博文
 excerpt: |
   博文摘要，概述
 feature_text: |
