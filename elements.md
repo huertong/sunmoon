@@ -6,6 +6,9 @@ feature_image: "https://huertong.github.io/sunmoon/assets/img/page_01_top_pic.pn
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
+[Chrome网址书签导航](https://huertong.github.io/sunmoon/website_bookmark/){:target="_blank"}
+
+
 <!--    -->
 # 分类
 
@@ -25,7 +28,7 @@ aside: true
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
+Duis aute irure dolor in [A link](https://david.darn.es ) reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
 
 * An item
 * An item
