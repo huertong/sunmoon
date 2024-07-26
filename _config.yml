@@ -53,7 +53,7 @@ social: # jekyll-seo-tag > social overrides
   # options: ["SMART", "FOOTNOTES"]
   # extensions: ["strikethrough", "autolink", "table"]
 
-  markdown: kramdown # 添加 kramdown 作为 Markdown 解析器，为了HTML网页添加的
+ # markdown: kramdown # 添加 kramdown 作为 Markdown 解析器，为了HTML网页添加的
 
 # 4. Jekyll settings
 sass:
