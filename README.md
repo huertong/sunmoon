@@ -1,4 +1,4 @@
-# 先看下面的样例效果，自己修改的话，再部署，看到效果时间有点长
+# 参考样例效果，自己修改再部署看效果时间有点长
 
 # [Alembic](https://alembic.darn.es/)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
